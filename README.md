@@ -1,3 +1,7 @@
+#Florian GROLLEAU - Julia MARIAU - Romain JAFFUEL - William SMITH - Jeanne GARCIA
+#3A-DD
+#Decembre 2024
+
 # Projet : Interface de tri de déchets avec poubelles intelligentes en Java
 
 ### Exécution du projet
